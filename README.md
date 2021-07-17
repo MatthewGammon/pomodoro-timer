@@ -14,3 +14,9 @@ The application will trigger an alert when it reaches 0:00 and automatically beg
 * Styled with Bootstrap 4.5.2 [Boostrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 * Deployed with [Vercel](https://vercel.com/)
 * JavaScript
+
+## Project Preview
+The default application view upon load.
+![Default Display](preview-images/Pomodoro-Default.png)
+Display during a study session. 
+![Study Display](preview-images/Pomodoro-Status.png)
